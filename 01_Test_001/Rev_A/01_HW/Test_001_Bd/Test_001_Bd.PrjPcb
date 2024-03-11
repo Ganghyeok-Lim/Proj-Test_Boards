@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Test_001_Bd
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YOPTGIFI
+DocumentUniqueId=NMAMBKAK
 
 [Document4]
 DocumentPath=04_DUT_Connector.SchDoc
@@ -108,6 +108,186 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVJDJBRH
 
+[Document5]
+DocumentPath=TEST001_Bd.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OQHJOOKE
+
+[Document6]
+DocumentPath=Test_001_Bd.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=https://d.docs.live.net/27155264df4fa9c1/04_Development/01_Project/Active/00_Test_Bd/Test-proj/01_Test_001/Rev_A/01_HW/Test_001_Bd/Project Outputs for Test_001_Bd/BOM/Bill of Materials-TEST001_Bd.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Test_001_Bd\Design Rule Check - TEST001_Bd.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Test_001_Bd\Pick Place\Pick Place for TEST001_Bd.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Test_001_Bd\Pick Place\Pick Place for TEST001_Bd.txt
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Test_001_Bd\NC Drill\TEST001_Bd-RectHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Test_001_Bd\NC Drill\TEST001_Bd.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Test_001_Bd\NC Drill\TEST001_Bd.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Test_001_Bd\Gerber\TEST001_Bd.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Test_001_Bd\NC Drill\TEST001_Bd.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -117,6 +297,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for Test_001_Bd
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1046,142 +1265,172 @@ ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Arkx.IntLib
-ComponentDesignItemID2=CAP_22uF/25V/2012
-ComponentSymbolReference2=CAP_22uF/25V/2012
+ComponentDesignItemID2=CAP_22uF/16V/3216
+ComponentSymbolReference2=CAP_22uF/16V/3216
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Arkx.IntLib
-ComponentDesignItemID3=CAP_4.7uF/16V/1608
-ComponentSymbolReference3=CAP_4.7uF/16V/1608
+ComponentDesignItemID3=CAP_22uF/25V/2012
+ComponentSymbolReference3=CAP_22uF/25V/2012
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Arkx.IntLib
-ComponentDesignItemID4=CON_10144518-082802LF
-ComponentSymbolReference4=CON_10144518-082802LF
+ComponentDesignItemID4=CAP_4.7uF/16V/1608
+ComponentSymbolReference4=CAP_4.7uF/16V/1608
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Arkx.IntLib
-ComponentDesignItemID5=CON_DC-Jack
-ComponentSymbolReference5=CON_DC-Jack
+ComponentDesignItemID5=CON_10144518-082802LF
+ComponentSymbolReference5=CON_10144518-082802LF
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Arkx.IntLib
-ComponentDesignItemID6=DIO_SS210
-ComponentSymbolReference6=DIO_SS210
+ComponentDesignItemID6=CON_DC-Jack
+ComponentSymbolReference6=CON_DC-Jack
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=Arkx.IntLib
-ComponentDesignItemID7=FET_2N7002
-ComponentSymbolReference7=FET_2N7002
+ComponentDesignItemID7=CON_SODIMM_2309409-1
+ComponentSymbolReference7=CON_SODIMM_2309409-1
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=Arkx.IntLib
-ComponentDesignItemID8=HOLE_NTH-3MM
-ComponentSymbolReference8=HOLE_NTH-3MM
+ComponentDesignItemID8=DIO_SS210
+ComponentSymbolReference8=DIO_SS210
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Arkx.IntLib
-ComponentDesignItemID9=IC_eFUSE_LS1205EVD33
-ComponentSymbolReference9=IC_eFUSE_LS1205EVD33
+ComponentDesignItemID9=FET_2N7002
+ComponentSymbolReference9=FET_2N7002
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=Arkx.IntLib
-ComponentDesignItemID10=IC_REG_SY8003ADFC
-ComponentSymbolReference10=IC_REG_SY8003ADFC
+ComponentDesignItemID10=HOLE_NTH-3MM
+ComponentSymbolReference10=HOLE_NTH-3MM
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=Arkx.IntLib
-ComponentDesignItemID11=IC_REG_VTT_BD3539FVM
-ComponentSymbolReference11=IC_REG_VTT_BD3539FVM
+ComponentDesignItemID11=IC_eFUSE_LS1205EVD33
+ComponentSymbolReference11=IC_eFUSE_LS1205EVD33
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Arkx.IntLib
-ComponentDesignItemID12=IND_BWVS006060282R2M00
-ComponentSymbolReference12=IND_BWVS006060282R2M00
+ComponentDesignItemID12=IC_REG_SY8003ADFC
+ComponentSymbolReference12=IC_REG_SY8003ADFC
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Arkx.IntLib
-ComponentDesignItemID13=LED_MHT170RGBCT(GREEN)
-ComponentSymbolReference13=LED_MHT170RGBCT(GREEN)
+ComponentDesignItemID13=IC_REG_VTT_BD3539FVM
+ComponentSymbolReference13=IC_REG_VTT_BD3539FVM
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Arkx.IntLib
-ComponentDesignItemID14=RES_100K/1608/0.1W
-ComponentSymbolReference14=RES_100K/1608/0.1W
+ComponentDesignItemID14=IND_BWVS006060282R2M00
+ComponentSymbolReference14=IND_BWVS006060282R2M00
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=Arkx.IntLib
-ComponentDesignItemID15=RES_124K/1608/0.1W
-ComponentSymbolReference15=RES_124K/1608/0.1W
+ComponentDesignItemID15=LED_MHT170RGBCT(BLUE)
+ComponentSymbolReference15=LED_MHT170RGBCT(BLUE)
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=Arkx.IntLib
-ComponentDesignItemID16=RES_12K/1608/0.1W
-ComponentSymbolReference16=RES_12K/1608/0.1W
+ComponentDesignItemID16=LED_MHT170RGBCT(GREEN)
+ComponentSymbolReference16=LED_MHT170RGBCT(GREEN)
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=Arkx.IntLib
-ComponentDesignItemID17=RES_1K/1608/0.1W
-ComponentSymbolReference17=RES_1K/1608/0.1W
+ComponentDesignItemID17=LED_RGB_MHT170RGBCT
+ComponentSymbolReference17=LED_RGB_MHT170RGBCT
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=Arkx.IntLib
-ComponentDesignItemID18=RES_200K/1608/0.1W
-ComponentSymbolReference18=RES_200K/1608/0.1W
+ComponentDesignItemID18=RES_100K/1608/0.1W
+ComponentSymbolReference18=RES_100K/1608/0.1W
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=Arkx.IntLib
-ComponentDesignItemID19=RES_4.7K/1608/0.1W
-ComponentSymbolReference19=RES_4.7K/1608/0.1W
+ComponentDesignItemID19=RES_124K/1608/0.1W
+ComponentSymbolReference19=RES_124K/1608/0.1W
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=Arkx.IntLib
-ComponentDesignItemID20=RES_453K/1608/0.1W
-ComponentSymbolReference20=RES_453K/1608/0.1W
+ComponentDesignItemID20=RES_12K/1608/0.1W
+ComponentSymbolReference20=RES_12K/1608/0.1W
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=Arkx.IntLib
-ComponentDesignItemID21=RES_510R/2012/0.125W
-ComponentSymbolReference21=RES_510R/2012/0.125W
+ComponentDesignItemID21=RES_1K/1608/0.1W
+ComponentSymbolReference21=RES_1K/1608/0.1W
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=Arkx.IntLib
-ComponentDesignItemID22=RES_68K/1608/0.1W
-ComponentSymbolReference22=RES_68K/1608/0.1W
+ComponentDesignItemID22=RES_200K/1608/0.1W
+ComponentSymbolReference22=RES_200K/1608/0.1W
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=Arkx.IntLib
-ComponentDesignItemID23=SB_Solder-Bridge
-ComponentSymbolReference23=SB_Solder-Bridge
+ComponentDesignItemID23=RES_4.7K/1608/0.1W
+ComponentSymbolReference23=RES_4.7K/1608/0.1W
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=Arkx.IntLib
-ComponentDesignItemID24=TP_CIRCLE
-ComponentSymbolReference24=TP_CIRCLE
+ComponentDesignItemID24=RES_453K/1608/0.1W
+ComponentSymbolReference24=RES_453K/1608/0.1W
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=Arkx.IntLib
+ComponentDesignItemID25=RES_470R/1608/0.1W
+ComponentSymbolReference25=RES_470R/1608/0.1W
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=Arkx.IntLib
+ComponentDesignItemID26=RES_510R/2012/0.125W
+ComponentSymbolReference26=RES_510R/2012/0.125W
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=Arkx.IntLib
+ComponentDesignItemID27=RES_68K/1608/0.1W
+ComponentSymbolReference27=RES_68K/1608/0.1W
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=Arkx.IntLib
+ComponentDesignItemID28=SB_Solder-Bridge
+ComponentSymbolReference28=SB_Solder-Bridge
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=Arkx.IntLib
+ComponentDesignItemID29=TP_CIRCLE
+ComponentSymbolReference29=TP_CIRCLE
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1241,38 +1490,56 @@ ModelType2=PCBLIB
 ModelName2=CAP 2012 (0805_INCH)
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=CON DC-Jack
+ModelName3=CAP 3216 (1206_INCH) - H1.8MM
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=DFN2x2-8
+ModelName4=CON DC-Jack
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=DIO DO-214AC (SMA)
+ModelName5=CON_SODIMM_2309409-1
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=HOLE NTH-3MM
+ModelName6=DIO DO-214AC (SMA)
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=IND BWVS006060282R2M00
+ModelName7=HOLE NTH-3MM
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=LED MHT170RGBCT (GREEN)
+ModelName8=IC_DFN_2X2_8L
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=RES 1608 (0603_inch)
+ModelName9=IC_DFN_3x3_10L
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=RES 2012 (0805_inch)
+ModelName10=IC_MSOP-8
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SB (Solder-Bridge)
+ModelName11=IND BWVS006060282R2M00
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=SOT 23-3 (DIODES INCORPORATED)
+ModelName12=LED MHT170RGBCT
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=TP Circle
+ModelName13=LED MHT170RGBCT (BLUE)
 ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=LED MHT170RGBCT (GREEN)
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=RES 1608 (0603_inch)
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=RES 2012 (0805_inch)
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=SB (Solder-Bridge)
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SOT 23-3 (DIODES INCORPORATED)
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=TP Circle
+ModelUpdate19=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
